@@ -3,6 +3,7 @@
 - 👨‍🎓 I'm currently doing my final year of Computer Engineering at University of Pretoria
 - 🔭 I’m working on a gym app with a few friends
 - 🌱 I’m currently learning React, React Native, Springboot and Kotlin
+- 👀 I have experience coding in Python, C++, Java, Delphi, Matlab and Assembly
 - 😁 I'm interested in anything tech related
 - 📫 How to reach me: willie.broekman@gmail.com
 <!--
