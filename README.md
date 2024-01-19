@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 👨‍🎓 I'm currently studying my final year of Computer Engineering at University of Pretoria
+- 👨‍🎓 I'm currently doing my final year of Computer Engineering at University of Pretoria
 - 🔭 I’m working on a gym app with a few friends
 - 🌱 I’m currently learning React, React Native, Springboot and Kotlin
 - 😁 I'm interested in anything tech related
