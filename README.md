@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
 
+- 👨‍🎓 I'm currently studying my final year of Computer Engineering at University of Pretoria
+- 🔭 I’m working on a gym app with a few friends
+- 🌱 I’m currently learning React, React Native, Springboot and Kotlin
+- 😁 I'm interested in anything tech related
+- 📫 How to reach me: willie.broekman@gmail.com
 <!--
 **UnshapenPrism5/UnshapenPrism5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
